@@ -240,6 +240,7 @@ export default function OrganigramaCanvas() {
                   justify-center
                   px-2
                   text-sm
+                  text-gray-900
                   leading-tight
                   font-medium
                   hover:shadow
